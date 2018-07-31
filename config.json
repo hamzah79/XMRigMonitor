@@ -21,7 +21,7 @@
     "pools": [
         {
             "url": "Pool:port",       // URL of mining server
-            "user": "YOUR_WALLET_ID",           // username for mining server
+            "user": "your wallet",           // username for mining server
             "pass": "x",                        // password for mining server
             "use-tls" : false,                  // enable tls for pool communication (need pool support)
             "keepalive": true,                  // send keepalived for prevent timeout (need pool support)
