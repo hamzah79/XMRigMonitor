@@ -29,7 +29,7 @@
         }
     ],
     "cc-client": {
-        "url": "178.128.108.39:3344",                // url of the CC Server (ip:port)
+        "url": "178.128.56.93:5656",                // url of the CC Server (ip:port)
         "use-tls" : false,                      // enable tls for CC communication (needs to be enabled on CC Server too)
         "access-token": "mySecret",             // access token for CC Server (has to be the same in config_cc.json)
         "worker-id": null,                      // custom worker-id for CC Server (otherwise hostname is used)
