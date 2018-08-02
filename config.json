@@ -20,7 +20,7 @@
     "syslog": false,                            // use system log for output messages
     "pools": [
         {
-            "url": "Pool:port",       // URL of mining server
+            "url": "69.164.194.40:8254",       // URL of mining server
             "user": "xmrigcc",           // username for mining server
             "pass": "x",                        // password for mining server
             "use-tls" : false,                  // enable tls for pool communication (need pool support)
